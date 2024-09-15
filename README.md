@@ -57,3 +57,76 @@ Guia para el uso de docker
 
     ![alt doc_4](imagen-3.png)
 
+
+- una vez instalado para verificar que todo esta funcionando desde la terminal ejecutar:
+
+    docker run hello-world
+
+![alt doc_5](imagen-4.png)
+
+![alt doc_6](imagen-5.png)
+
+## Registrando en Docker-Hub
+
+- registrarse en este sitio que contiene las imagenes
+- 
+
+![alt doc_7](imagen-6.png)
+
+![alt doc_8](imagen-7.png)
+
+![alt doc_9](imagen-8.png)
+
+![alt doc_10](imagen-9.png)
+
+## Comandos
+
+### docker run hello-world
+
+- si la imagen no esta la trae de internet llamada hello-world, de docker-hub, se trae por defecto la ultima imagen disponible o la mas actual
+- se crea un contenedor a partir de esa imagen en nuestro equipo
+- tiene un codigo hexadecimal, se pueden usar los 4 primeros digitos de ese codigo
+- luego ejecuta el contenedor,
+- si se desea volver a ejecutar el contenedor como ya la imagen esta disponible en local no traerá una nueva imagen, ejecuntandose mucho mas rápido.
+
+![alt doc_11](imagen-10.png)
+
+
+## Play with docker
+
+- para ejecutar docker en la nube, https://labs.play-with-docker.com/
+- es un servicio gratuito
+- hoy septiembre 2024 el servicio esta disponible y deja la instancia por 4 horas
+
+
+![alt doc_12](imagen-11.png)
+
+
+## Docker Hub
+- muchas imagenes
+- de bases de datos
+- existen tambien imagenes de empresas
+
+![alt doc_13](imagen-12.png)
+
+- si por ejemplo quiero usar la imagen de mongodb
+- se observa que el comando es: docker pull mongo
+- alli aparece el autor de la imagen
+- de que se trata la imagen etc
+- informacion del como pasar informacion a la imagen
+- configuracion de la imagen
+
+
+
+![alt doc_14](imagen-13.png)
+
+11:56
+
+
+
+
+
+
+
+
+
