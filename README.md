@@ -55,4 +55,5 @@ Guia para el uso de docker
     - descargar el instalador
     - en windows me dio error: 
 
-    ![alt text](imagen-3.png)
+    ![alt doc_4](imagen-3.png)
+
